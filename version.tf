@@ -19,7 +19,7 @@ terraform {
     organization = "KLins_solutions1"
 
     workspaces {
-      name = "Workspace1"
+      name = "terraform-cloud-repo"
     }
   }
 }
