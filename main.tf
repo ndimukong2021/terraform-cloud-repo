@@ -14,7 +14,7 @@ module "vpc" {
   tags = {
     Terraform = "true"
     Environment = "dev"
-    Name = "Dev_VPC"
+    Name = "Dev_VPC1"
   }
 }
 
