@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+   
+    <mapping directory="$PROJECT_DIR$/terraform-cloud-repo" vcs="Git" />
+
+df8080f949b9de7d08cfceaf324401793be126b2
+  </component>
+</project>
